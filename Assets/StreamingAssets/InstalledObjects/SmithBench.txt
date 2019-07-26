@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Build", "objectType":"SmithBench", "work_amount":3.0, "materials":[]}

@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Build", "objectType":"O2Generator", "work_amount":1.0, "materials":[{"item":"SteelPlate", "amount":5}]}

@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Gather", "objectType":"CrystalPot", "work_amount":1.0, "materials":[], "resultItems":[{"item":"SteelPlate", "amount":5}]}

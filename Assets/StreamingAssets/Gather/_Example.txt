@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Gather", "objectType":"InstalledObjectName", "work_amount":0.0, "materials":[], "resultItems":[{"item":"materialtype", "amount":0}]}

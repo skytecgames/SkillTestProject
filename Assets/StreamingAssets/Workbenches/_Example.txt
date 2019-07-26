@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Workbench", "objectType":"@workbench_id@", "queueType":"@queue_type@", "recipes":[{"id":@recipe_id@}]}

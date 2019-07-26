@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Item", "id":"copper_ore", "work_amount":2.0, "materials":[], "resultItems":[{"item":"CopperOre", "amount":3}]}

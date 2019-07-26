@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Workbench", "objectType":"MiningStation", "queueType":"repeat", "recipes":[{"id":"iron_ore"},{"id":"copper_ore"}]}

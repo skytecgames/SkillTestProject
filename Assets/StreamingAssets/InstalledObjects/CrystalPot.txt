@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Build", "objectType":"CrystalPot", "work_amount":1.0, "materials":[]}

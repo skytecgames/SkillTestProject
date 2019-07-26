@@ -1,0 +1,1 @@
+﻿{"RecipeType":"Workbench", "objectType":"SmithBench", "queueType":"repeat", "recipes":[{"id":"steel_plate"}]}
